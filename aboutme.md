@@ -4,13 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我的名字是永刚-张.我来自于山东，现在北京居住，1982年出生，有两个女儿。我有以下特征:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 我喜欢打篮球
+- 我忠于我的家庭
 
-What else do you need?
+你还需要了解什么？
 
-### my history
+### 我的历史
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+说实话，我觉得我还挺年轻，我喜欢运动，但是我不得不经常加班，照顾孩子，我出去旅游的机会也不多，还要经常回老家。我与妻子的关系也不是很好，我们经常吵架，这也许就是我加班的原因之一吧！但是我很爱我的家庭，我希望她们都健康快乐！
