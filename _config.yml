@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: 我的网页
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -87,9 +87,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -157,7 +157,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
